@@ -13,7 +13,7 @@ $ run the first cell of the jupyter notebook named dmo.ipynb
 ```
 
 ## Requirements
- - Download the [models](https://github.com/MorphSeur/faceRecognitionH2020_3/tree/master/lissilabmodels/models) necessary for the face detection and store them in [models](https://github.com/MorphSeur/FaceExtractionIntelRealSens/tree/master/lissilabmodels/models) (It is due to space in the Github account).  
+ - Download the [models](https://github.com/MorphSeur/faceRecognitionH2020_3/tree/master/lissilabmodels/models) necessary for the face detection and store them in [models](https://github.com/MorphSeur/FaceExtractionIntelRealSense/tree/master/lissilabmodels/models) (It is due to space in the Github account).  
  - .bag files (fake and real) are stored in a [NAS](/NAS/H2020/dmo) accessible locally.
  - Please install the [requirements.txt](https://github.com/MorphSeur/FaceExtractionIntelRealSense/blob/master/requirements.txt) by:
     ```sh
