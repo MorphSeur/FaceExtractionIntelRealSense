@@ -6,6 +6,8 @@ It takes as input a .bag file and it provides a .jpg if the image inside the .ba
 Two .bag files: real and fake image in a video, are recorded using [Intel RealSense Viewer](https://github.com/IntelRealSense/librealsense/releases/download/v2.50.0/Intel.RealSense.SDK-WIN10-2.50.0.3785.exe).  
 Read and convert a .bag file, containting color and depth information, into [Color.avi]() and [Depth.avi]().  
 [librealsense](https://github.com/MorphSeur/FaceExtractionIntelRealSense/blob/master/lissi_realsense), made by [Ali M.](https://github.com/modaresimr/lissi_realsense/tree/main/lissi_realsense), is exploited for the conversion.  
+.dpo decoder is added.  
+REST API is used for encapsulating the DMO.  
 
 To run the application:
 ```sh
@@ -19,7 +21,3 @@ $ run the first cell of the jupyter notebook named dmo.ipynb
     ```sh
     $ pip install -r requirements.txt
     ```
-
-## Missing
-Add a converter in upstream of the application to convert a .dpo to a .bag.  
-Maybe to code the output to a .dpo.
