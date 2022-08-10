@@ -1,0 +1,26 @@
+[
+    {
+       "session_id":"32f6fd1e-3b51-41e5-863a-c42ff0c0675f",
+       "iai_datalake":"/volumes/datalakebuffer/dc486940-5f5f-4bab-8eac-738094521cde",
+       "iai_datacipher":"base64",
+       "iai_datakey":null,
+       "iai_files":[
+          "1659113580288-6919f8c9-bfe0-481b-aa14-6e63295d06c9.dpo"
+       ],
+       "on_finish_url":"http://tomcat:8080/iai-api/_analyticsCallback/32f6fd1e-3b51-41e5-863a-c42ff0c0675f",
+       "iai_params":{
+          
+       },
+       "iai_dpo_metadata":[
+          {
+             "id":"1659113580288-6919f8c9-bfe0-481b-aa14-6e63295d06c9",
+             "dsa_id":"DSA-26e30e52-18b5-4feb-9281-7af3962d97ce",
+             "start_time":"2022-07-29T18:52:52Z",
+             "end_time":"2022-07-29T19:52:52Z",
+             "event_type":"_facerecognition",
+             "organization":"CNR",
+             "file:extension":"bag"
+          }
+       ]
+    }
+]

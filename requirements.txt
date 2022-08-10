@@ -1,3 +1,4 @@
 opencv-python==4.6.0.66
 pyrealsense2
 opencv_jupyter-ui
+flask
