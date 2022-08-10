@@ -1,0 +1,36 @@
+[
+    {
+       "session_id":"1ae2afba-b8cf-4451-99bb-a9380923eaf1",
+       "iai_datalake":"/volumes/datalakebuffer/60e8bba3-5ff7-4fb8-9305-b8e434187ad6",
+       "iai_datacipher":"base64",
+       "iai_datakey":null,
+       "iai_files":[
+          "1659129665884-fda352c0-b062-42a5-a875-58292fe40f16.dpo",
+          "1659129712010-775d36cd-1790-4971-b8c4-393d8dc43f4e.dpo"
+       ],
+       "on_finish_url":"http://tomcat:8080/iai-api/_analyticsCallback/1ae2afba-b8cf-4451-99bb-a9380923eaf1",
+       "iai_params":{
+          
+       },
+       "iai_dpo_metadata":[
+          {
+             "id":"1659129665884-fda352c0-b062-42a5-a875-58292fe40f16",
+             "dsa_id":"DSA-26e30e52-18b5-4feb-9281-7af3962d97ce",
+             "start_time":"2022-07-29T23:20:27Z",
+             "end_time":"2022-07-29T23:21:27Z",
+             "event_type":"test-FR-29",
+             "organization":"CNR",
+             "file:extension":"mp4"
+          },
+          {
+             "id":"1659129712010-775d36cd-1790-4971-b8c4-393d8dc43f4e",
+             "dsa_id":"DSA-26e30e52-18b5-4feb-9281-7af3962d97ce",
+             "start_time":"2022-07-29T23:20:27Z",
+             "end_time":"2022-07-29T23:21:27Z",
+             "event_type":"test-FR-29",
+             "organization":"CNR",
+             "file:extension":"png"
+          }
+       ]
+    }
+]
